@@ -14,7 +14,7 @@ Scanner sc=new Scanner(System.in);
 System.out.println("\nUser name :");
 String username=sc.nextLine();
 System.out.println("\nPassword :");
-String password=sc.nextLine();
+String password=sc.nextLine();Authentication
 try
 {
 if(username.length()<8)
