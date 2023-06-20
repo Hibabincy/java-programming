@@ -21,6 +21,7 @@ else {
 sum += num;
 }
 }
+  
 //calculates average
 double average = sum / l;
 System.out.println("Average: "+ average);
