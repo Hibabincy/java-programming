@@ -1,5 +1,5 @@
-
-
+#array of objects
+ 
 import java.util.Scanner;
 class Employee{
 int eNo, eSalary;
